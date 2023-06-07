@@ -1,6 +1,7 @@
 
-Q
-java:S3740"/Provide the parametrized type for this generic.(”ˆ¾úÿÿÿÿ8ÑÚŸˆ1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¡ü’ıÿÿÿÿ8¦ºàŸˆ1
-L
-java:S3740"/Provide the parametrized type for this generic.(îÓì¾8®œØŸˆ1
+W	java:S125"<This block of commented-out lines of code should be removed.(±¨û8„¶ı¹ˆ1
+I
+java:S1172",Remove this unused method parameter "items".(¶É©Ü8ıı¹ˆ1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ìŸııÿÿÿÿ8Õ•û¹ˆ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¬Ìä8ıı¹ˆ1

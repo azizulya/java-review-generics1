@@ -1,3 +1,10 @@
+package appleTask;
+
+import appleTask.Apple;
+import appleTask.AppleGreenColorPredicate;
+import appleTask.AppleHeavyPredicate;
+import appleTask.ApplePredicate;
+
 import java.util.ArrayList;
 import java.util.List;
 

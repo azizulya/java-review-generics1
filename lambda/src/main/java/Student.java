@@ -1,3 +1,8 @@
+import lombok.AccessLevel;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+@AllArgsConstructor(access = AccessLevel.PRIVATE)
+@Data
 public class Student {
 
     private String firstName;
@@ -7,4 +12,5 @@ public class Student {
     private String password;
     private String confirmPassword;
     private int age;
+
 }

@@ -1,3 +1,5 @@
+package appleTask;
+
 public class Apple {
 
     private int weight;
@@ -26,9 +28,9 @@ public class Apple {
 
     @Override
     public String toString () {
-        return "Apple{" +
+        return "appleTask.Apple{" +
                 "weight=" + weight +
-                ", color=" + color +
+                ", appleTask.Color=" + color +
                 '}';
     }
 }
