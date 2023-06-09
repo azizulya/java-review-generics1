@@ -15,22 +15,10 @@ G
 src/main/java/Team.java,d/5/d53349ae06126b177b0f98a386b39da8abc9980a
 K
 src/main/java/TeamTest.java,6/c/6cb5783de6f8a9e2b18be320923aa24f624324d2
-O
-lambda/src/main/java/Apple.java,6/c/6c3e8a5e7760ad32a2c1a27c6edf40040b740a92
-b
-2lambda/src/main/java/AppleGreenColorPredicate.java,e/6/e67016c18e4ad725e38518cb755a9d3162915155
-]
--lambda/src/main/java/AppleHeavyPredicate.java,1/9/1927336893d666758249d8cfe2b18107bfe0598c
-X
-(lambda/src/main/java/ApplePredicate.java,d/1/d1c36f502654c98bf674ea539bb04875470bc1db
-S
-#lambda/src/main/java/AppleTest.java,8/0/80a010ccc1d0055016adbf2a33a491f78e082c94
 V
 &lambda/src/main/java/ArraySorting.java,e/0/e0bd313c0bcf0414a9968a32952de10d9e1dc2c3
 T
 $lambda/src/main/java/BubbleSort.java,f/3/f3af7ba557e6a542ceb3065567847db4bf836195
-O
-lambda/src/main/java/Color.java,4/d/4dcb9d88a7655b1efc695810b7526aab4db18547
 S
 #lambda/src/main/java/QuickSort.java,a/3/a3b31881150c5661a97d900a20576f0531bb65d3
 Q
@@ -47,3 +35,23 @@ U
 %lambda/src/main/java/task/Orange.java,5/b/5bdd6c47a74a81cc6571dab6b2a837fc0211e7a4
 Y
 )lambda/src/main/java/task/OrangeTest.java,e/2/e2b8f68f2b9d5ffbbaa17313bddf27da25e91cfd
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+Y
+)lambda/src/main/java/appleTask/Apple.java,6/6/6668db4d205f7944a1ea026a4831a883cbe28249
+l
+<lambda/src/main/java/appleTask/AppleGreenColorPredicate.java,d/f/dfdbfe6de6a054468428ab076383196816caf950
+g
+7lambda/src/main/java/appleTask/AppleHeavyPredicate.java,d/5/d50cbc85900125aa22086f8c85167f956e84847c
+b
+2lambda/src/main/java/appleTask/ApplePredicate.java,8/a/8a9188e05ad109b2cb20928c629a6214f9869455
+]
+-lambda/src/main/java/appleTask/AppleTest.java,c/1/c1dbf53442a6521210e9637dcbed55078be2286b
+Y
+)lambda/src/main/java/appleTask/Color.java,4/a/4a64d31ace6cee39e901c8273547c2ecd51f84db
+g
+7lambda/src/main/java/functionalinterfaces/Examples.java,a/1/a10bd66037e6aa0e37066f41d3cc6497a7129c47
+c
+3lambda/src/main/java/functionalinterfaces/User.java,2/c/2c4f2134b6dfa8a119a3a0bed1a23327bcfc12b7
+g
+7lambda/src/main/java/functionalinterfaces/UserTest.java,a/a/aa11a9eccb600e51ce123d38e1004597bad8e06b
