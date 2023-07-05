@@ -1,0 +1,18 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“ê½Šøÿÿÿÿ8û‚”¼ˆ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ş®ÿğ8ø¶¼ˆ1
+Y
+java:S1854"7Remove this useless assignment to local variable "joe".(Âéíáüÿÿÿÿ8ø¶¼ˆ1
+J
+java:S1481"(Remove this unused "joe" local variable.(Âéíáüÿÿÿÿ8ø¶¼ˆ1
+[
+java:S1854
+">Remove this useless assignment to local variable "brokenTeam".(êÂ°8‚Øµ¼ˆ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Êâôã8Ì’©¼ˆ1
+J
+java:S1481"(Remove this unused "pat" local variable.(ªÏûîıÿÿÿÿ8ø¶¼ˆ1
+Y
+java:S1854"7Remove this useless assignment to local variable "pat".(ªÏûîıÿÿÿÿ8ø¶¼ˆ1
+L
+java:S1481
+"/Remove this unused "brokenTeam" local variable.(êÂ°8‚Øµ¼ˆ1

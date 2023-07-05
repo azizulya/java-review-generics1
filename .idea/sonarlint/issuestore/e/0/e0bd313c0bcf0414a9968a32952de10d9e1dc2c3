@@ -1,0 +1,9 @@
+
+Y
+java:S1854"<Remove this useless assignment to local variable "mylambda".(ïŠ³—8Îœéˆ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ùœ•¬úÿÿÿÿ8„‚ôßˆ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïŠ³—8Îœéˆ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ë”œ‹ùÿÿÿÿ8¶·µéˆ1
+J
+java:S1481"-Remove this unused "mylambda" local variable.(ïŠ³—8Îœéˆ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ…ì¡ıÿÿÿÿ8¶·µéˆ1

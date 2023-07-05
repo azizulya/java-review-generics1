@@ -1,0 +1,9 @@
+
+X
+java:S1751/"6Remove this "return" statement or make it conditional.(áÿèˆıÿÿÿÿ8ı«İŠ1
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ºòÎıÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(¶ŠÕìÿÿÿÿÿ8ö¿·Š1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í˜·üÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(áªÖî8ÏŒçŠ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ëã½ıÿÿÿÿ8ªÙøŠ1

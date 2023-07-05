@@ -22,11 +22,7 @@ public class AppleTest {
 
         List<Apple> greenApple = filterApples (inventory,apple -> apple.getColor ().equals (Color.GREEN));
         System.out.println (greenApple);
-//
-//        filterApples (heavyApple,user -> user.getFirstName ().startsWith ("E"));
-//
-//        List<Apple> greenApple = filterApples (inventory, new AppleGreenColorPredicate ());
-//        System.out.println (greenApple);
+
     }
 
 //    private static List<Apple> filterApples (List<Apple> inventory, ApplePredicate applePredicate) {

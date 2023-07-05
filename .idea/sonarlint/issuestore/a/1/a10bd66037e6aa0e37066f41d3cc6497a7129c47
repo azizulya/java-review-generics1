@@ -1,0 +1,29 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ï¸²¾8¸ù÷·‰1
+
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'ObjIntConsumer<Integer>'(¾¥È¼øÿÿÿÿ8«È¸‰1
+t
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(Üº³¥øÿÿÿÿ8şáÕ·‰1
+o
+java:S4276-"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(¿ŞÚÓ8ıäŞİ1
+I
+java:S1612*",Replace this lambda with a method reference.(ÎßßÔ8—Ò§¸‰1
+]	java:S125	"<This block of commented-out lines of code should be removed.(ÒÖ£ºşÿÿÿÿ8Ø ¿·‰1
+I
+java:S1612",Replace this lambda with a method reference.(Ï¸²¾8¸ù÷·‰1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8şáÕ·‰1
+q
+java:S4276*"TRefactor this code to use the more specialised Functional Interface 'DoubleSupplier'(ÎßßÔ8å¦¸‰1
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(ƒÚáB8—Û™¸‰1
+E
+java:S1125-"(Remove the literal "true" boolean value.(¿ŞÚÓ8ıäŞİ1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(¢Ü·êøÿÿÿÿ8ùÂ©¸‰1
+x
+java:S4276#"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(‚ï•¨8èä¸‰1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(¤´ûîşÿÿÿÿ8¨èçİ1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(È â…8Ñ¨ãİ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾¥È¼øÿÿÿÿ8§¢€¸‰1
+L
+java:S1611-"/Remove the parentheses around the "p" parameter(¿ŞÚÓ8ıäŞİ1
+n
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(Ï¸²¾8¸ù÷·‰1
